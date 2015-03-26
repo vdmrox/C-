@@ -1,0 +1,6 @@
+c:\users\vdmrox\documents\visual studio 2013\Projects\SpendingCalculatorApp\SpendingCalculatorApp\bin\Debug\SpendingCalculatorApp.exe.config
+c:\users\vdmrox\documents\visual studio 2013\Projects\SpendingCalculatorApp\SpendingCalculatorApp\bin\Debug\SpendingCalculatorApp.exe
+c:\users\vdmrox\documents\visual studio 2013\Projects\SpendingCalculatorApp\SpendingCalculatorApp\bin\Debug\SpendingCalculatorApp.pdb
+c:\users\vdmrox\documents\visual studio 2013\Projects\SpendingCalculatorApp\SpendingCalculatorApp\obj\Debug\SpendingCalculatorApp.csprojResolveAssemblyReference.cache
+c:\users\vdmrox\documents\visual studio 2013\Projects\SpendingCalculatorApp\SpendingCalculatorApp\obj\Debug\SpendingCalculatorApp.exe
+c:\users\vdmrox\documents\visual studio 2013\Projects\SpendingCalculatorApp\SpendingCalculatorApp\obj\Debug\SpendingCalculatorApp.pdb

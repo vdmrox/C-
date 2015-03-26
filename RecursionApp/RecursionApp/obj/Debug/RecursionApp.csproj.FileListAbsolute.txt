@@ -1,0 +1,6 @@
+c:\users\vdmrox\documents\visual studio 2013\Projects\RecursionApp\RecursionApp\bin\Debug\RecursionApp.exe.config
+c:\users\vdmrox\documents\visual studio 2013\Projects\RecursionApp\RecursionApp\bin\Debug\RecursionApp.exe
+c:\users\vdmrox\documents\visual studio 2013\Projects\RecursionApp\RecursionApp\bin\Debug\RecursionApp.pdb
+c:\users\vdmrox\documents\visual studio 2013\Projects\RecursionApp\RecursionApp\obj\Debug\RecursionApp.csprojResolveAssemblyReference.cache
+c:\users\vdmrox\documents\visual studio 2013\Projects\RecursionApp\RecursionApp\obj\Debug\RecursionApp.exe
+c:\users\vdmrox\documents\visual studio 2013\Projects\RecursionApp\RecursionApp\obj\Debug\RecursionApp.pdb

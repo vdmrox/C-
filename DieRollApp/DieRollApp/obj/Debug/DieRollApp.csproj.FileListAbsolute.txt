@@ -1,0 +1,6 @@
+c:\users\vdmrox\documents\visual studio 2013\Projects\DieRollApp\DieRollApp\bin\Debug\DieRollApp.exe.config
+c:\users\vdmrox\documents\visual studio 2013\Projects\DieRollApp\DieRollApp\bin\Debug\DieRollApp.exe
+c:\users\vdmrox\documents\visual studio 2013\Projects\DieRollApp\DieRollApp\bin\Debug\DieRollApp.pdb
+c:\users\vdmrox\documents\visual studio 2013\Projects\DieRollApp\DieRollApp\obj\Debug\DieRollApp.csprojResolveAssemblyReference.cache
+c:\users\vdmrox\documents\visual studio 2013\Projects\DieRollApp\DieRollApp\obj\Debug\DieRollApp.exe
+c:\users\vdmrox\documents\visual studio 2013\Projects\DieRollApp\DieRollApp\obj\Debug\DieRollApp.pdb
